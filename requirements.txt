@@ -1,5 +1,5 @@
 scikit-learn
 pandas
 scipy
-seaborn==
-uvicorn==
+seaborn
+uvicorn
