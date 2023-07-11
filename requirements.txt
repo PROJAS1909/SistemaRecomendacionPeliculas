@@ -4,3 +4,4 @@ scipy
 seaborn
 uvicorn
 fastapi
+nltk
